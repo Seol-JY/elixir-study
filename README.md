@@ -1,6 +1,7 @@
 # Elixir Study
 
-Elixir 언어, Phoenix 프레임워크 찍먹
+Elixir 언어, Phoenix 프레임워크 찍먹  
+[Notion 정리](https://outgoing-gravity-13d.notion.site/Elixir-ec6e6eb22deb42ecb625aaaddfb72250)
 
 ## 참고 자료
 
